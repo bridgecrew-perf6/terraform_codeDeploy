@@ -1,0 +1,1 @@
+my_compute_platform="Server"
